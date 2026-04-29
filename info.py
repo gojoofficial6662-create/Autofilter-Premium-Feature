@@ -18,9 +18,9 @@ def is_enabled(value, default):
 # Bot Information Configuration
 # ============================
 SESSION = environ.get('SESSION', 'royal_search')   # Session name for the bot
-API_ID = int(environ.get('API_ID', '')) # API ID from my.telegram.org
-API_HASH = environ.get('API_HASH', '')  # API Hash from my.telegram.org
-BOT_TOKEN = environ.get('BOT_TOKEN', "")    # Bot token from @BotFather
+API_ID = int(environ.get('API_ID', '36956279')) # API ID from my.telegram.org
+API_HASH = environ.get('API_HASH', '026d4ef35856ac3a8b6c5236b06035fe')  # API Hash from my.telegram.org
+BOT_TOKEN = environ.get('BOT_TOKEN', "8605781722:AAE85DKqAaLqgAcyyEERJqDC_GHH8XsdAQk")    # Bot token from @BotFather
 
 # ============================
 # Bot Settings Configuration
